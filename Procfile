@@ -1,1 +1,1 @@
-web: python blackbird.py --web --port $PORT
+web: python server.py
